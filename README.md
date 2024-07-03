@@ -4,7 +4,7 @@
 
 **Purpose:** identify risk factors and symptoms associated with Alzheimer's Disease
 
-**Outcome:** evaluate effects of Alzheimer's Disease on the lives of patients and build a model to predict the risk of having Alzheimer's Disease
+**Outcome:** evaluate effects of Alzheimer's Disease on the lives of patients and build a model to estimate the risk of having Alzheimer's Disease
 
 ## Data
 
@@ -100,7 +100,7 @@ EducationLevel: Education level, with 0 representing None, 1 representing High S
 
 ## Conclusion
 
-Alzheimer's Disease greatly hinders a person's ability to regulate their own lives, with symptoms including confusion, memory complaints and personality changes (and more)
+Alzheimer's Disease is greatly associated with decreased cognitive and functional abilities
 
 From the data of this dataset, the most reliable way to diagnose Alzheimer's is through cognitive and functional assessment
 
